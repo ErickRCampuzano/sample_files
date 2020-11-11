@@ -4,10 +4,24 @@
     <Name>
       Carlo
     </Name>
+    <Email>
+      carlo@test.com
+    </Email>
+    
+    <Company>
+      Big Company
+    </Company>
   </Lead>
   <Lead>
     <Name>
-      Carlo
+      Marco
     </Name>
+    <Email>
+      Marco@test.com
+    </Email>
+    
+    <Company>
+      Marco's
+    </Company>
   </Lead>
 <Leads>
