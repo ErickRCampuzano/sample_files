@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Leads>
   <Lead>
-    <Name>
-      Carlo
-    </Name>
-    <Email>
-      carlo@test.com
-    </Email>
-    
-    <Company>
-      Big Company
-    </Company>
+    <Name>Carlo</Name>
+    <Email>carlo@test.com</Email>
+    <Company>Big Company</Company>
   </Lead>
   <Lead>
-    <Name>
-      Marco
-    </Name>
-    <Email>
-      Marco@test.com
-    </Email>
-    
-    <Company>
-      Marco's
-    </Company>
+    <Name>Marco</Name>
+    <Email>Marco@test.com</Email>
+    <Company>Marco's</Company>
   </Lead>
 </Leads>
