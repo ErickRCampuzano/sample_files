@@ -142,8 +142,6 @@ br><br><br><br><br>عجلوا! لمشاهدة المزيد من التفاصیل
         <Rent_Frequency>
             <![CDATA[ monthly ]]>
         </Rent_Frequency>
-        <Off_Plan>
-            <![CDATA[ No ]]>
-        </Off_Plan>
+        <Off_Plan>No</Off_Plan>
     </Property>
 </Properties>
